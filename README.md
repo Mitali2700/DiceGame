@@ -1,6 +1,6 @@
 # Dice Game
 
-I have used HTML, CSS, JavaScript in my project. This site is responsive.
+I have used HTML, CSS and JavaScript in my project. This site is responsive.
 
 
 # Screenshot
